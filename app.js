@@ -1,4 +1,6 @@
-/*este es un cambio que debo ver en github*/
+/*este es un cambio que debo ver en github
+Im gonna add a little more text here so i can see a change in github
+*/
 
 const argv = require('./config/yargs').argv;
 const colors = require('colors');
